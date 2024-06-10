@@ -10,3 +10,6 @@ In this project, we are training an agent to learn from the offline datasets for
 
 - `dm_control==1.0.14`
 - `gym==0.21.0`
+
+- ## Acknowledge
+- Thanks to https://github.com/Baichenjia/UTDS
